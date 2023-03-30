@@ -46,6 +46,16 @@
 			"id" :3,
 			"hari" : "rabu",
 			"jam_masuk" : "10.00"	
+		},
+		{
+			"id" :4,
+			"hari" : "Kamis",
+			"jam_masuk" : "07.50"	
+		},
+		{
+			"id" :5,
+			"hari" : "jumat,
+			"jam_masuk" : "01.00"	
 		}
 	]
 }
