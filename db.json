@@ -35,17 +35,17 @@
 		{
 			"id" : 1,
 			"hari" : "senin",
-			"jam_masuk" : "7"
+			"jam_masuk" : "07.00"
 		},
 		{
 			"id" :2,
 			"hari" : "selasa",
-			"jam_masuk" : "8"	
+			"jam_masuk" : "08.00"	
 		},
 		{
 			"id" :3,
 			"hari" : "rabu",
-			"jam_masuk" : "10"	
+			"jam_masuk" : "10.00"	
 		}
 	]
 }
