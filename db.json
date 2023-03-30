@@ -31,21 +31,21 @@
 		{
 			"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
 	],
-	"jadwalaMasuk": [
+	"jadwalMasuk": [
 		{
 			"id" : 1,
 			"hari" : "senin",
-			"jam masuk" : "7"
+			"jam_masuk" : "7"
 		},
 		{
 			"id" :2,
 			"hari" : "selasa",
-			"jam masuk" : "8"	
+			"jam_masuk" : "8"	
 		},
 		{
 			"id" :3,
 			"hari" : "rabu",
-			"jam masuk" : "10"	
+			"jam_masuk" : "10"	
 		}
 	]
 }
