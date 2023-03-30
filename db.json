@@ -1,6 +1,5 @@
 {
-"mahasiswa" : 
-	[
+	"mahasiswa": [
 		{
 			"id" : 1,
 			"nama" : "jono",
@@ -17,11 +16,36 @@
 			"alamat" : "pasuruan"
 		}
 	],
-"organisasi": [
-		{"id" : 1, "nama" : "HMTI", "sekretariat" : "Gedung AS"},
-		{"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
-		{"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
-		{"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
-		{"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
+	"organisasi": [
+		{
+			"id" : 1,
+			"nama" : "HMTI",
+			"sekretariat" : "Gedung AS"
+		},
+		{
+			"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
+		{
+			"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
+		{
+			"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
+		{
+			"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
+	],
+	"jadwal masuk": [
+		{
+			"id" : 1,
+			"hari" : "senin",
+			"jam masuk" : "7"
+		},
+		{
+			"id" :2,
+			"hari" : "selasa",
+			"jam masuk" : "8"	
+		},
+		{
+			"id" :3,
+			"hari" : "rabu",
+			"jam masuk" : "10"	
+		}
 	]
 }
