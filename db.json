@@ -31,7 +31,7 @@
 		{
 			"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
 	],
-	"jadwal masuk": [
+	"jadwalaMasuk": [
 		{
 			"id" : 1,
 			"hari" : "senin",
